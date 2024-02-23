@@ -1,0 +1,13 @@
+#myphoto{
+    border-radius: 50%;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+body{
+    background-color:aliceblue;
+}
